@@ -1,0 +1,30 @@
+.main{
+    background-color:cadetblue;
+    margin-left:40px;
+    width:50%;
+    margin:auto;
+    padding:0;
+}
+.main h3{
+    font-size: 20px;
+    color:#ffffff;
+    margin-left:30px;
+    margin-bottom:-10px;
+}
+.main li{
+    margin-left:3px;
+}
+.main img{
+    width:550px;
+    height:250px;
+    margin-left: 30px;;
+}
+.main p{
+    margin-left:30px;
+}
+.main h2{
+    font-size: 20px;
+    color:#ffffff;
+    padding-bottom:2rem;
+
+}
